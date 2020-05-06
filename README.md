@@ -1,2 +1,0 @@
-# hyperRestaurant
-Created with CodeSandbox
